@@ -1,0 +1,25 @@
+{
+  "appId": "com.apex.myroutine",
+  "appName": "My Routine",
+  "webDir": "www",
+  "backgroundColor": "#0a0807",
+  "android": {
+    "backgroundColor": "#0a0807"
+  },
+  "ios": {
+    "backgroundColor": "#0a0807",
+    "contentInset": "never"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false,
+      "backgroundColor": "#0a0807",
+      "showSpinner": false
+    },
+    "StatusBar": {
+      "style": "DARK",
+      "overlaysWebView": true,
+      "backgroundColor": "#00000000"
+    }
+  }
+}
